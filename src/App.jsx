@@ -11,7 +11,7 @@ import ProfilePage from "./pages/ProfilePage";
 import LoginPage from "./pages/login/LoginPage";
 import RegisterPage from "./pages/register/RegisterPage";
 
-// გვერდის შეცვლისას ზემოთ აბრუნებს
+// გვერდის შეცვლისას ზემოთ აბრუნებს.
 function ScrollToTop() {
   const { pathname } = useLocation();
   useEffect(() => {
