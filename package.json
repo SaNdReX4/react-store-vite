@@ -1,0 +1,29 @@
+{
+  "name": "react-shualeduri",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^5.2.2",
+    "@reduxjs/toolkit": "^2.11.2",
+    "axios": "^1.13.3",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "react-hook-form": "^7.71.1",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^7.9.0",
+    "yup": "^1.7.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4",
+    "@vitejs/plugin-react": "^5.0.0",
+    "babel-plugin-react-compiler": "1.0.0",
+    "tailwindcss": "^4",
+    "vite": "^7.0.0"
+  }
+}
